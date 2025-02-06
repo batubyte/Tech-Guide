@@ -3,17 +3,34 @@
 ## 1. Install Visual Studio Code
 
 ## 2. File structure
-```
-project/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .env
-├── src/
-│   ├── server.py
-│   └── client.py
-└── tests/
-    ├── test_1.py
-    └── test_2.py
-```
+    project/
+    │
+    ├── README.md
+    ├── LICENSE
+    ├── requirements.txt
+    ├── .env
+    ├── src/
+    │   ├── server.py
+    │   └── client.py
+    └── tests/
+        ├── test_1.py
+        └── test_2.py
+## 3. Linux Virtual envrionment setup
+    ```sh
+    python3 -m venv venv
+    source venv/bin/activate
+    python main.py
+    pip freeze > requirements.txt # Make requirements
+    pip install -r requirements.txt # Install requirements
+    deactivate
+    ```
+
+## 4. Windows virtual envrionment setup
+    ```bat
+    python -m venv venv
+    venv\Scripts\activate
+    python main.py
+    pip freeze > requirements.txt
+    pip install -r requirements.txt
+    deactivate
+    ```
