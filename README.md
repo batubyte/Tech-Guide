@@ -38,7 +38,11 @@
 ## 8. **Code Editors**
 - **[Visual Studio Code](https://code.visualstudio.com/Download)**  
   
-- **[Notepad++](https://notepad-plus-plus.org/downloads)**  
+- **[Notepad++](https://notepad-plus-plus.org/downloads)**
+
+## 9. **Cursor**
+- **[MacOS](https://github.com/antiden/macOS-cursors-for-Windows)
+- **[Golden Pickaxe](https://www.cursor.cc/?action=icon&file_id=74149)
 
 ## 9. **Screen Recording**
 - **[OBS Studio](https://obsproject.com/)**  
