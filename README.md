@@ -31,21 +31,17 @@
   *No gaming*
 
 ## 7. **Programming Languages**
-- **Python**  
-  [Python](https://www.python.org/downloads)
+- **[Python](https://www.python.org/downloads)**  
   
 - **JavaScript**
 
 ## 8. **Code Editors**
-- **Visual Studio Code**  
-  [Visual Studio Code](https://code.visualstudio.com/Download)
+- **[Visual Studio Code](https://code.visualstudio.com/Download)**  
   
-- **Notepad++**  
-  [Notepad++](https://notepad-plus-plus.org/downloads)
+- **[Notepad++](https://notepad-plus-plus.org/downloads)**  
 
 ## 9. **Screen Recording**
-- **OBS Studio**  
-  [OBS Studio](https://obsproject.com/)
+- **[OBS Studio](https://obsproject.com/)**  
 
 ## 10. **Social Platforms**
 - **Discord**  
