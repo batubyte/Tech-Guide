@@ -26,11 +26,11 @@
     ```
 
 ## 4. Windows virtual envrionment setup
-    ```bat
-    python -m venv venv
-    venv\Scripts\activate
-    python main.py
-    pip freeze > requirements.txt
-    pip install -r requirements.txt
-    deactivate
-    ```
+```bat
+python -m venv venv
+venv\Scripts\activate
+python main.py
+pip freeze > requirements.txt
+pip install -r requirements.txt
+deactivate
+```
