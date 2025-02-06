@@ -30,9 +30,13 @@
   [Ubuntu Desktop](https://ubuntu.com/download/desktop)  
   *No gaming*
 
+## 7. **Cloud Storage**
+- **[Google Drive](https://drive.google.com/drive/my-drive)
+- **[Dropbox](https://www.dropbox.com)
+
 ## 7. **Programming Languages**
 - **[Python](https://www.python.org/downloads)**  
-  
+
 - **JavaScript**
 
 ## 8. **Code Editors**
