@@ -44,9 +44,9 @@
 - **[OBS Studio](https://obsproject.com/)**  
 
 ## 10. **Social Platforms**
-- **Discord**  
-- **YouTube**  
-- **Kick**  
-- **Twitter**
+- **[Discord](https://discord.com)**  
+- **[YouTube](https://www.youtube.com)**  
+- **[Kick](https://kick.com)**  
+- **[Twitter](https://twitter.com)**
 
 ---
