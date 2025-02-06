@@ -1,5 +1,7 @@
 # Cyber 2025 Setup
 
+---
+
 ## 1. **Phone**
 - **Samsung Galaxy S25 / S25+ / S25 Ultra**
 
