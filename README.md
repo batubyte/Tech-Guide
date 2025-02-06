@@ -22,7 +22,7 @@
 - **Desktop**
 
 ## 6. **Operating System**
-- **Windows 10 Pro / Windows 11 Pro**  
+- **Windows 11 Pro**  
   [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)  
   [Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts)
   
