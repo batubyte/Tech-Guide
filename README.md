@@ -53,10 +53,11 @@
 - **[OBS Studio](https://obsproject.com/)**  
 
 ## 10. **Social Platforms**
-- **[Discord](https://discord.com)**  
-- **[YouTube](https://www.youtube.com)**  
-- **[Kick](https://kick.com)**  
+- **[WhatsApp](https://web.whatsapp.com/)**
 - **[Twitter](https://twitter.com)**
+- **[YouTube](https://www.youtube.com)**  
+- **[Discord](https://discord.com)**  
+- **[Kick](https://kick.com)**  
 
 # 11. **Server**
 - **[DigitalOcean](https://www.digitalocean.com)**
