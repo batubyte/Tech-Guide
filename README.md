@@ -14,7 +14,7 @@
 - **Google**
 
 ## 4. **AI Assistants**
-- **ChatGPT**
+- (ChatGPT)[https://chatgpt.com/]
 - **DeepSeek**
 
 ## 5. **Computer**
