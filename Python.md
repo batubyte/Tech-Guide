@@ -1,6 +1,6 @@
 # Useful Python codes
 
-1. ## Get current script path
+## 1. Get current script path
    ```py
    def get_current_script_path():
     if getattr(sys, 'frozen', False):
