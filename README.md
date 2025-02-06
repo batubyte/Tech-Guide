@@ -12,8 +12,8 @@
 - **Google**
 
 ## 4. **AI Assistants**
-- **ChatGPT** (AI language model)
-- **DeepSeek** (AI search assistant)
+- **ChatGPT**
+- **DeepSeek**
 
 ## 5. **Computer**
 - **Laptop**
