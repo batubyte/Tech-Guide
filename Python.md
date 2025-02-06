@@ -1,6 +1,7 @@
 # Python Guide
 
 ## 1. Install Visual Studio Code
+(Download VSCode)[https://code.visualstudio.com/Download]
 
 ## 2. File structure
     project/
