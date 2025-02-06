@@ -3,7 +3,7 @@
 ---
 
 ## 1. **Phone**
-- **(Samsung Galaxy S25 / S25+ / S25 Ultra)[https://www.samsung.com/us/smartphones/galaxy-s25-ultra]**
+- **[Samsung Galaxy S25 / S25+ / S25 Ultra](https://www.samsung.com/us/smartphones/galaxy-s25-ultra)**
 
 ## 2. **Browser**
 - **[Google Chrome](https://www.google.com/chrome)**
