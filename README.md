@@ -36,7 +36,7 @@
 
 ## 7. **Programming Languages**
 - **[Python](https://www.python.org/downloads)**
-- *[Useful codes](https://github.com/batubyte/Cyber/blob/main/Python.md)*
+  **[Useful codes](https://github.com/batubyte/Cyber/blob/main/Python.md)**
 
 - **JavaScript**
 
