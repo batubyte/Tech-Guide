@@ -49,6 +49,7 @@ if __name__ == '__main__':
 
 ## 6. Get current script path
 ```py
+import sys, os
 def get_current_script_path():
     if getattr(sys, 'frozen', False):
         return os.path.dirname(sys.executable)
