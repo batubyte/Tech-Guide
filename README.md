@@ -10,5 +10,5 @@
 7. Programming language: [Python](https://www.python.org/downloads), JavaScript
 8. Code editor: [Visual Studio Code](https://code.visualstudio.com/Download) [Notepad++](https://notepad-plus-plus.org/downloads)
 9. Screen recorder: [OBS Studio](https://obsproject.com/)
-10. Social: Discord, YouTube, Kick, Twitter (x)
+10. Social platforms: Discord, YouTube, Kick, Twitter (x)
 ---
