@@ -16,14 +16,14 @@
         ├── test_1.py
         └── test_2.py
 ## 3. Linux Virtual envrionment setup
-    ```sh
-    python3 -m venv venv
-    source venv/bin/activate
-    python main.py
-    pip freeze > requirements.txt # Make requirements
-    pip install -r requirements.txt # Install requirements
-    deactivate
-    ```
+```sh
+python3 -m venv venv
+source venv/bin/activate
+python main.py
+pip freeze > requirements.txt # Make requirements
+pip install -r requirements.txt # Install requirements
+deactivate
+```
 
 ## 4. Windows virtual envrionment setup
 ```bat
@@ -33,4 +33,15 @@ python main.py
 pip freeze > requirements.txt
 pip install -r requirements.txt
 deactivate
+```
+
+## 5. Code
+```py
+import ...
+
+def main():
+    ...
+
+if __name__ == '__main__':
+    main()
 ```
