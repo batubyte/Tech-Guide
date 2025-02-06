@@ -1,4 +1,4 @@
-# Python Guide
+# Python Guide & useful codes
 
 ## 1. Install Visual Studio Code
 - **[Download VSCode](https://code.visualstudio.com/Download)**
@@ -45,4 +45,13 @@ def main():
 
 if __name__ == '__main__':
     main()
+```
+
+## 6. Get current script path
+```py
+def get_current_script_path():
+    if getattr(sys, 'frozen', False):
+        return os.path.dirname(sys.executable)
+    else:
+        return os.path.dirname(os.path.realpath(__file__))
 ```
