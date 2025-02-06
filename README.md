@@ -28,7 +28,7 @@
   
 - **Ubuntu LTS**  
   [Ubuntu Desktop](https://ubuntu.com/download/desktop)  
-  *(Note: No gaming)*
+  *No gaming*
 
 ## 7. **Programming Languages**
 - **Python**  
