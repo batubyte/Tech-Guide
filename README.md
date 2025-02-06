@@ -1,4 +1,4 @@
-# Cyber 2025 Setup
+# Cyber 2025
 
 ---
 
