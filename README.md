@@ -10,7 +10,7 @@
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new)**
 
 ## 3. **Search Engine**
-- **[DuckDuckGo]((https://duckduckgo.com))**
+- **[DuckDuckGo](https://duckduckgo.com)**
 - **[Google](https://www.google.com)**
 
 ## 4. **AI Assistants**
