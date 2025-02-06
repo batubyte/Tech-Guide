@@ -3,19 +3,19 @@
 ---
 
 ## 1. **Phone**
-- **Samsung Galaxy S25 / S25+ / S25 Ultra**
+- **(Samsung Galaxy S25 / S25+ / S25 Ultra)[https://www.samsung.com/us/smartphones/galaxy-s25-ultra]**
 
 ## 2. **Browser**
-- **Google Chrome**
-- **Mozilla Firefox**
+- **[Google Chrome](https://www.google.com/chrome)**
+- **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new)**
 
 ## 3. **Search Engine**
-- **DuckDuckGo**
-- **Google**
+- **[DuckDuckGo]((https://duckduckgo.com))**
+- **[Google](https://www.google.com)**
 
 ## 4. **AI Assistants**
-- (ChatGPT)[https://chatgpt.com/]
-- **DeepSeek**
+- **(ChatGPT)[https://chatgpt.com]**
+- **[DeepSeek](https://www.deepseek.com)**
 
 ## 5. **Computer**
 - **Laptop**
