@@ -1,7 +1,7 @@
 # Cyber 2025
 
 ---
-Choice quality: number one, number two
+Number one, number two choice
 1. Browser: Chrome, Firefox
 2. Search Engine: DuckDuckGo, Google
 3. AI: ChatGPT, DeepSeek
