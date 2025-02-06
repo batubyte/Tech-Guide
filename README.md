@@ -51,6 +51,6 @@
 - **Discord**  
 - **YouTube**  
 - **Kick**  
-- **Twitter (X)**
+- **Twitter**
 
 ---
