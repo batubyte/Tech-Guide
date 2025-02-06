@@ -35,7 +35,7 @@
 - **[Dropbox](https://www.dropbox.com)**
 
 ## 7. **Programming Languages**
-- **[Python](https://www.python.org/downloads)**
+- **[Python](https://www.python.org/downloads)**  
   **[Useful codes](https://github.com/batubyte/Cyber/blob/main/Python.md)**
 
 - **JavaScript**
