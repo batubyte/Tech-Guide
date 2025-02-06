@@ -41,8 +41,8 @@
 - **[Notepad++](https://notepad-plus-plus.org/downloads)**
 
 ## 9. **Cursor**
-- **[MacOS](https://github.com/antiden/macOS-cursors-for-Windows)
-- **[Golden Pickaxe](https://www.cursor.cc/?action=icon&file_id=74149)
+- **[MacOS](https://github.com/antiden/macOS-cursors-for-Windows)**
+- **[Golden Pickaxe](https://www.cursor.cc/?action=icon&file_id=74149)**
 
 ## 9. **Screen Recording**
 - **[OBS Studio](https://obsproject.com/)**  
