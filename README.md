@@ -17,7 +17,7 @@
 
 ## 5. **Computer**
 - **Laptop**
-- **PC**
+- **Desktop**
 
 ## 6. **Operating System**
 - **Windows 10 / Windows 11 Pro**  
