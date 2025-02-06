@@ -31,8 +31,8 @@
   *No gaming*
 
 ## 7. **Cloud Storage**
-- **[Google Drive](https://drive.google.com/drive/my-drive)
-- **[Dropbox](https://www.dropbox.com)
+- **[Google Drive](https://drive.google.com/drive/my-drive)**
+- **[Dropbox](https://www.dropbox.com)**
 
 ## 7. **Programming Languages**
 - **[Python](https://www.python.org/downloads)**  
@@ -57,4 +57,7 @@
 - **[Kick](https://kick.com)**  
 - **[Twitter](https://twitter.com)**
 
+# 11. **Server**
+- **[DigitalOcean](https://www.digitalocean.com)**
+- **[Linode](https://www.linode.com)**
 ---
