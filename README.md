@@ -1,4 +1,4 @@
-# Cyber 2025
+# 2025 Tech Guide
 
 ---
 
