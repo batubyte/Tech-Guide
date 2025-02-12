@@ -61,7 +61,7 @@
 - **[Linode](https://www.linode.com)**
 
 # 12. **Other**
-- **If you need anything else just use this prompt to ChatGPT**
+- **If you need anything else just use this prompt to ChatGPT**  
   Ex1: What is the best screen recording and streaming app for Windows 11
   Ex2: What is the best live voice changer app for Windows 11
 ---
