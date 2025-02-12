@@ -63,6 +63,6 @@
 # 12. **Other**
 - **If you need anything else just use this prompt to ChatGPT**  
   **What is the best ... for ...**  
-  Ex1: What is the best screen recording and streaming app for Windows 11  
-  Ex2: What is the best live voice changer app for Windows 11  
+  -> What is the best screen recording and streaming app for Windows 11  
+  -> What is the best live voice changer app for Windows 11  
 ---
