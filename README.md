@@ -49,8 +49,9 @@
 - **[MacOS](https://github.com/antiden/macOS-cursors-for-Windows)**
 - **[Golden Pickaxe](https://www.cursor.cc/?action=icon&file_id=74149)**
 
-## 9. **Screen Recording**
-- **[OBS Studio](https://obsproject.com/)**  
+## 9. **Useful softwares and websites**
+- **Screen recorder and streamer: [OBS Studio](https://obsproject.com/)**
+- **Voice changer: [Voicemod](https://www.voicemod.net/)**  
 
 ## 10. **Social Platforms**
 - **[WhatsApp](https://web.whatsapp.com/)**
