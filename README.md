@@ -49,10 +49,6 @@
 - **[MacOS](https://github.com/antiden/macOS-cursors-for-Windows)**
 - **[Golden Pickaxe](https://www.cursor.cc/?action=icon&file_id=74149)**
 
-## 9. **Useful softwares and websites**
-- **Screen recorder and streamer: [OBS Studio](https://obsproject.com/)**
-- **Voice changer: [Voicemod](https://www.voicemod.net/)**  
-
 ## 10. **Social Platforms**
 - **[WhatsApp](https://web.whatsapp.com/)**
 - **[Twitter](https://twitter.com)**
@@ -60,7 +56,12 @@
 - **[Discord](https://discord.com)**  
 - **[Kick](https://kick.com)**  
 
-# 11. **Server**
+# 11. **Virtual Server**
 - **[DigitalOcean](https://www.digitalocean.com)**
 - **[Linode](https://www.linode.com)**
+
+# 12. **Other**
+- **If you need anything else just use this prompt to ChatGPT**
+  Ex1: What is the best screen recording and streaming app for Windows 11
+  Ex2: What is the best live voice changer app for Windows 11
 ---
