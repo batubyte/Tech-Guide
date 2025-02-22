@@ -47,7 +47,8 @@ if __name__ == '__main__':
     main()
 ```
 
-## 6. Get current script path
+Examples:
+## Get current script path
 ```py
 import sys, os
 def get_current_script_path():
