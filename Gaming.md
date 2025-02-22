@@ -11,7 +11,7 @@
 
 3. Gaming Mouse with Adjustable DPI & Mechanical Keyboard – fast actuation improve responsiveness.
 
-4. Lower Graphics for Higher FPS – Prioritize performance over visuals for competitive play.
+4. Lower Graphics – Prioritize performance over visuals for competitive play.
 
 
 5. Tweak Sensitivity – Adjust to find the perfect balance between speed and precision.
