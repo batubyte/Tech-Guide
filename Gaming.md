@@ -1,16 +1,31 @@
 # Gaming
 
-## Hardware & Settings
-1. Stable frame rate 144 (FPS):   
-2. High-refresh-rate monitor 144Hz: gives a smoother experience and improves reaction time  
-3. Gaming mouse with adjustable DPI, mechanical keyboard: enchance responsiveness  
-4. Lower graphics for higher FPS  
-5. Tweak sensitivity for better control  
-6. Adjust key bindings for efficiency  
+---
 
-## Training (10-15m)
-- [Reaction](https://humanbenchmark.com)  
-- [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)  
+## Hardware & Settings
+1. Stable 144 FPS – Ensures smooth gameplay and minimizes input lag.
+
+2. 144Hz+ High-Refresh-Rate Monitor – Enhances visual fluidity and reaction time.
+
+3. Gaming Mouse with Adjustable DPI & Mechanical Keyboard – fast actuation improve responsiveness.
+
+4. Lower Graphics for Higher FPS – Prioritize performance over visuals for competitive play.
+
+
+5. Tweak Sensitivity – Adjust to find the perfect balance between speed and precision.
+
+
+6. Custom Key Bindings – Optimize for efficiency and faster execution of actions.
+
+---
+
+## 🎯 Training (10-15 min)
+
+- Reaction Time Training – Human Benchmark
+
+- Eye Tracking & Aim Training – YouTube Guide
+
+---
 
 ## Strategy
 1. Read opponent and predict opponent's next move  
