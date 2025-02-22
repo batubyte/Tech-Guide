@@ -9,8 +9,8 @@
 6. Adjust key bindings for efficiency  
 
 ## Training (10-15m)
-1. [Reaction](https://humanbenchmark.com)  
-2. [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)  
+- [Reaction](https://humanbenchmark.com)  
+- [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)  
 
 ## Strategy
 1. Read opponent and predict opponent's next move  
