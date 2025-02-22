@@ -8,6 +8,12 @@
 5. Tweak sensitivity for better control  
 6. Adjust key bindings for efficiency  
 
-## Training
+## Training (10-15m)
 1. [Reaction](https://humanbenchmark.com)  
-2. [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)
+2. [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)  
+
+## Strategy
+1. Read opponent and predict opponent's next move  
+2. Analyze deaths/mistakes and improve  
+3. Focus on one skill per session  
+4. Take the adventage of opponents who are frustrated  
