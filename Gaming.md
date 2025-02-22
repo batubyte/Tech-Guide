@@ -26,7 +26,7 @@
 
 ---
 
-🧠 Strategy & Mindset
+## 🧠 Strategy & Mindset
 1. Read & Predict Opponents – Anticipate their next move for a strategic edge.
 
 
