@@ -9,4 +9,5 @@
 6. Adjust key bindings for efficiency  
 
 ## Training
-1. [Reaction](https://humanbenchmark.com)
+1. [Reaction](https://humanbenchmark.com)  
+2. [Eye](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)
