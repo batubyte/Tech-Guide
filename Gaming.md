@@ -1,8 +1,8 @@
-# Gaming
+# 🎮 Gaming Guide
 
 ---
 
-## Hardware & Settings
+## 🖥️ Hardware & Settings
 1. Stable 144 FPS – Ensures smooth gameplay and minimizes input lag.
 
 2. 144Hz+ High-Refresh-Rate Monitor – Enhances visual fluidity and reaction time.
@@ -20,15 +20,21 @@
 ---
 
 ## 🎯 Training (10-15 min)
-
 - Reaction Time Training – Human Benchmark
 
 - Eye Tracking & Aim Training – YouTube Guide
 
 ---
 
-## Strategy
-1. Read opponent and predict opponent's next move  
-2. Analyze deaths/mistakes and improve  
-3. Focus on one skill per session  
-4. Take the adventage of opponents who are frustrated  
+🧠 Strategy & Mindset
+1. Read & Predict Opponents – Anticipate their next move for a strategic edge.
+
+
+2. Analyze Mistakes – Review deaths and errors to improve decision-making.
+
+
+3. Focus on One Skill per Session – Master a single aspect of gameplay at a time.
+
+
+4. Exploit Opponents' Frustration – Take advantage of tilted players by staying calm and making calculated plays.
+
