@@ -20,9 +20,9 @@
 ---
 
 ## 🎯 Training (10-15 min)
-- Reaction Time Training – Human Benchmark
+- Reaction Time Training – [Human Benchmark](https://humanbenchmark.com)
 
-- Eye Tracking & Aim Training – YouTube Guide
+- Eye Tracking & Aim Training – [YouTube Guide](https://youtu.be/gCR5EbuNcIE?si=FusWqYvJ2-jpgntX)
 
 ---
 
