@@ -3,6 +3,8 @@
 ---
 
 ## 🖥️ Hardware & Settings
+1. Stable connection – Use wired Ethernet for lower ping.
+
 1. Stable 144 FPS – Ensures smooth gameplay and minimizes input lag.
 
 2. 144Hz+ High-Refresh-Rate Monitor – Enhances visual fluidity and reaction time.
